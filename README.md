@@ -17,13 +17,20 @@ code of conduct (rules when interacting with the project)
 
 durrrrrrrrrrrrrr
 
-*list
-*Ilist
+
+markdown examples
 # an h1
 ## h2
 ### and h3
 
+*list a b d
+*Ilist
+markdown examples:
+aaa
 
+-sample list 1
+-sample list 2
+-sample list 3 because it has the - first
 hey hey hey 
 
 hey 
