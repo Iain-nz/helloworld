@@ -5,7 +5,7 @@ a 'github "special" file when is stored in the root of the repo or docs folder' 
 
 README.md
 the special feature: is will be automaticaly rendered on the landing page
-'markdown' format, 'md' is plain text.
+'markdown' format, 'md' is plain text with easy formatting options
 
 
 other speicla files : 
@@ -19,7 +19,9 @@ durrrrrrrrrrrrrr
 
 *list
 *Ilist
-
+# an h1
+## h2
+### and h3
 
 
 hey hey hey 
